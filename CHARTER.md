@@ -2,8 +2,6 @@
 
 ## FLS Team - `t-fls`
 
-The initial charter of the FLS team is:
-
 > The FLS Team maintains and improves the FLS for the benefit
 > of the Project and the safety-critical community.
 > The FLS Team is responsible for:
@@ -26,8 +24,6 @@ The initial charter of the FLS team is:
 > The team manages its own membership and selects its own leads.
 
 ## FLS Contributors Team - `t-fls-contributors`
-
-The initial charter of the FLS contributors team is:
 
 > The FLS Contributors Team supports the work of the FLS Team in
 > maintaining and improving the FLS.
