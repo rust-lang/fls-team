@@ -1,6 +1,6 @@
 # Charters
 
-## FLS Team - `t-fls`
+## FLS Team -- `t-fls`
 
 The FLS Team maintains and improves the FLS for the benefit of the Project and
 the safety-critical community.  The FLS Team is responsible for:
@@ -20,7 +20,7 @@ the safety-critical community.  The FLS Team is responsible for:
 The FLS Team leads are tasked with ensuring the health of the team.  The team
 manages its own membership and selects its own leads.
 
-## FLS Contributors Team - `t-fls-contributors`
+## FLS Contributors Team -- `t-fls-contributors`
 
 The FLS Contributors Team supports the work of the FLS Team in maintaining and
 improving the FLS.  The FLS Contributors Team is responsible for:

@@ -1,4 +1,4 @@
-# The FLS Team - `t-fls`
+# The FLS Team -- `t-fls`
 
 Welcome to the home of the [FLS Team].
 
